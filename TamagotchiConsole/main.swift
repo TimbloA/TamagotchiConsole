@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+let philllipTamagotchi = Tamagotchi(name: "Philllip")
+
+philllipTamagotchi.eatSnack()
+
 
